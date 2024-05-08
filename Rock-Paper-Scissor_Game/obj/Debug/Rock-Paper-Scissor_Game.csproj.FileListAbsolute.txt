@@ -1,0 +1,11 @@
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\bin\Debug\Rock-Paper-Scissor_Game.exe.config
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\bin\Debug\Rock-Paper-Scissor_Game.exe
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\bin\Debug\Rock-Paper-Scissor_Game.pdb
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\obj\Debug\Rock-Paper-Scissor_Game.csproj.AssemblyReference.cache
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\obj\Debug\Rock-Paper-Scissor_Game.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\obj\Debug\Rock_Paper_Scissor_Game.Form1.resources
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\obj\Debug\Rock_Paper_Scissor_Game.Properties.Resources.resources
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\obj\Debug\Rock-Paper-Scissor_Game.csproj.GenerateResource.cache
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\obj\Debug\Rock-Paper-Scissor_Game.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\obj\Debug\Rock-Paper-Scissor_Game.exe
+D:\Visual Studio Project\Rock-Paper-Scissor_Game\Rock-Paper-Scissor_Game\obj\Debug\Rock-Paper-Scissor_Game.pdb
